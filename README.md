@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jafet41
-- 👀 I’m interested in Artificial Inteligence and FrontEnd Development
-- 🌱 I’m currently learning Javascript and React
+- 👀 I’m interested in Artificial Inteligence and Fullstack Development
+- 🌱 I’m currently learning React
 - 📫 How to reach me: jafet_41@hotmail.com
 
 <!---
